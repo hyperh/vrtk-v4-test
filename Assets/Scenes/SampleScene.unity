@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 1779845688}
   - component: {fileID: 1779845687}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: RightTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
