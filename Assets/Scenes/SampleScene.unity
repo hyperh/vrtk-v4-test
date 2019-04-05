@@ -1177,6 +1177,11 @@ PrefabInstance:
       propertyPath: grabOffset
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7899214951717282139, guid: 240fdd985e025cb459f73d2b1bb7b341,
+        type: 3}
+      propertyPath: followTracking
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2652022254811315598, guid: 240fdd985e025cb459f73d2b1bb7b341,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1878,6 +1883,11 @@ PrefabInstance:
         type: 3}
       propertyPath: grabOffset
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7899214951717282139, guid: 240fdd985e025cb459f73d2b1bb7b341,
+        type: 3}
+      propertyPath: followTracking
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2652022254811315598, guid: 240fdd985e025cb459f73d2b1bb7b341,
         type: 3}
