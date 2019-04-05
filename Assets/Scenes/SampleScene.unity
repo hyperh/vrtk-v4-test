@@ -664,6 +664,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ObjectPointer.Straight.Simulated
       objectReference: {fileID: 0}
+    - target: {fileID: 4333620153645678103, guid: 1950b2150beec924d9cff768bb4e815c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3718142488040735482, guid: 1950b2150beec924d9cff768bb4e815c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -723,7 +728,7 @@ PrefabInstance:
         type: 3}
       propertyPath: followSource
       value: 
-      objectReference: {fileID: 927262027}
+      objectReference: {fileID: 604669740}
     - target: {fileID: 2748488038835702461, guid: 1950b2150beec924d9cff768bb4e815c,
         type: 3}
       propertyPath: activationAction
@@ -875,12 +880,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &927262027 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1581495199198194, guid: 9623e1c09606a01498f200718f0f607d,
-    type: 3}
-  m_PrefabInstance: {fileID: 187782881}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &936132854
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -894,7 +893,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1467290445770872, guid: b6b557e5a38efee4f90e60a9287d7b93, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4938262979527042, guid: b6b557e5a38efee4f90e60a9287d7b93, type: 3}
       propertyPath: m_LocalPosition.x
@@ -966,6 +965,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ObjectPointer.Curved.Simulated
       objectReference: {fileID: 0}
+    - target: {fileID: 1322672732093859771, guid: c69d84a3cadb94e45af0210c52e5728d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1977522402952244861, guid: c69d84a3cadb94e45af0210c52e5728d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1025,7 +1029,7 @@ PrefabInstance:
         type: 3}
       propertyPath: followSource
       value: 
-      objectReference: {fileID: 1078108401}
+      objectReference: {fileID: 619182006}
     - target: {fileID: 2402421270702372836, guid: c69d84a3cadb94e45af0210c52e5728d,
         type: 3}
       propertyPath: activationAction
@@ -1033,12 +1037,6 @@ PrefabInstance:
       objectReference: {fileID: 575250383}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c69d84a3cadb94e45af0210c52e5728d, type: 3}
---- !u!1 &1078108401 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1643489474284420, guid: 9623e1c09606a01498f200718f0f607d,
-    type: 3}
-  m_PrefabInstance: {fileID: 187782881}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1188599465
 GameObject:
   m_ObjectHideFlags: 0
