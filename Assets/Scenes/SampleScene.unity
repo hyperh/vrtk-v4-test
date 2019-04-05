@@ -2826,7 +2826,7 @@ GameObject:
   - component: {fileID: 1933780340}
   - component: {fileID: 1933780339}
   m_Layer: 0
-  m_Name: RightTriggerPressedProxy
+  m_Name: RightGrabPressedProxy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2851,7 +2851,7 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   defaultValue: 0
   sources:
-  - {fileID: 217427684}
+  - {fileID: 0}
   - {fileID: 1586932286}
   Activated:
     m_PersistentCalls:
@@ -2977,7 +2977,7 @@ GameObject:
   - component: {fileID: 2047052343}
   - component: {fileID: 2047052342}
   m_Layer: 0
-  m_Name: LeftTriggerPressedProxy
+  m_Name: LeftGrabPressedProxy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3002,7 +3002,7 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   defaultValue: 0
   sources:
-  - {fileID: 1260242700}
+  - {fileID: 0}
   - {fileID: 1375433731}
   Activated:
     m_PersistentCalls:
